@@ -1,12 +1,8 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/118658753/216383080-d50054b3-f898-4459-9d43-ddf4b9cdac92.png" width=10% height=10%>
+  <img src="https://github.com/Wajola55/Wajola55/assets/118658753/3c4dc54d-1896-4103-9a59-b849d038086c" width="100"/>
 </p>
 
-Hey there! I'm a Junior Developer who's totally into programming, especially Python. I'm all about writing neat and efficient code, and I know my way around tools like pip.
-
-When it comes to web stuff, I've got some mad skills with Django. I love taking on new coding challenges and I'm always up for learning something new.
-
-<p align="center">
+<p align="center" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+  🌟 Hi, I'm <b>Wioletta Koczor</b> - a developer with a strong IT support background, skilled in Python, JavaScript, and creating memorable user experiences. My journey from troubleshooting to coding is showcased at <a href="https://wkoczor.pl" style="color: #0066cc; text-decoration: none;">wkoczor.pl</a>, where I blend technical expertise with a passion for intuitive design. I believe in the power of continuous learning and collaboration to turn ideas into reality. Excited to be a part of this amazing tech community, and ready to contribute and grow together! 🛠️🎨
 </p>
 
-I'm always on the lookout for the latest industry trends and developments, so you can rest assured that I'm always one step ahead of the game. So if you're looking for a junior developer with the skills and passion to take your project to the next level, look no further!
